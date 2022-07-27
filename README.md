@@ -19,7 +19,7 @@ Compatable | Terraform Cloud
 
 Compatable | Terraform Enterprise
 
-##Example Output
+## Example Output
 ```
 python3 sentinel_policy_reporter.py
 
